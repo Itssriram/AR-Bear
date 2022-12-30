@@ -1,2 +1,2 @@
-# AR-Bear
+#Bear
 AR Bear is marker based application
